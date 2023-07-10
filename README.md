@@ -1,7 +1,7 @@
 ## Sobre mim 👋
 
 
-- 🔭 Atualmente trabalho como Analista de Dados
+- 🔭 Sou Analista de Dados
 - 🌱 Atualmente estou estudando Python
 - 👯 Estou procurando colaboradores para novos projetos de estudos
 - 😄 Pronome: Ela/Dela
