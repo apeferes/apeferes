@@ -2,6 +2,7 @@
 
 
 - 🔭 Sou Analista de Dados
+- 📚 Sou aluna do Bootcamp Data Analytics da WoMakersCode em parceria com a Microsoft, iFood, Potência Tech e S&P Global
 - 🌱 Atualmente estou estudando Python
 - 👯 Estou procurando colaboradores para novos projetos de estudos
 - 😄 Pronome: Ela/Dela
