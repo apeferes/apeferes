@@ -6,26 +6,11 @@
 - 🌱 Atualmente estou estudando Python
 - 👯 Estou procurando colaboradores para novos projetos de estudos
 - 😄 Pronome: Ela/Dela
-- ⚡ Fato engraçado: Antes de entrar para o corporativo, eu era musicista
-
-<br>
-
-## Novata no GitHub
-### Por enquanto
+- ⚡ Fato engraçado: Antes de entrar para a programaçãp, eu era da música
 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apeferes&show_icons=true&theme=dracula)
-
-<br>
-
-Ferramentas| Status
----------  | ------
-Excel      | *****
-Power BI   | ****
-Tableau    | ***
-SQL        | ***
-Python     | **
 
 <br>
 
@@ -49,4 +34,3 @@ Python     | **
 
 
 * [Linkedin](https://www.linkedin.com/in/anapaulaferes/)
-* [Instagram](https://instagram.com/apeferes)
