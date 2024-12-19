@@ -1,7 +1,7 @@
-## Sobre mim 👋
+## Sobre mim
 
 
-- 😄 Pronome: Ela/Dela
+- Pronome: Ela/Dela
 
 <br>
 
@@ -9,7 +9,7 @@
 
 <br>
 
-# Cursos
+# Formação acadêmica
 
 * Graduação em Engenharia da Computação
 * Pós Graduação em Estatística Aplicada
