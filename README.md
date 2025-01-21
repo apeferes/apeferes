@@ -2,7 +2,7 @@
 
 **Sobre Mim**
 
-Engenheira de Dados apaixonada por extrair insights de dados para impulsionar a tomada de decisão. Busco constantemente novas oportunidades para aprender e desenvolver soluções utilizando as mais recentes tecnologias.
+Engenheira de Dados de marketing, solucionando problemas e extração de dados para impulsionar a tomada de decisão. Busco constantemente novos desafios para aprender e desenvolver soluções utilizando as mais recentes tecnologias.
 
 **Habilidades Técnicas**
 
