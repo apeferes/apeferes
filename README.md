@@ -30,7 +30,7 @@ Engenheira de Dados apaixonada por extrair insights de dados para impulsionar a 
 
 - **LinkedIn:** https://www.linkedin.com/in/anapaulaferes/
 
-[Image: GitHub Stats]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apeferes)](https://github.com/apeferes/github-readme-stats)
 
 **Tecnologias**
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
