@@ -2,13 +2,13 @@
 
 **Sobre Mim**
 
-Engenheira de Dados de marketing, solucionando problemas e extração de dados para impulsionar a tomada de decisão. Busco constantemente novos desafios para aprender e desenvolver soluções utilizando as mais recentes tecnologias.
+Engenheira de Dados de marketing, solucionando problemas e extração de dados para impulsionar a tomada de decisão. Busco constantemente novos desafios para aprender e me desenvolver como profissional da tecnologia utilizando as mais recentes tecnologias.
 
 **Habilidades Técnicas**
 
 - **Linguagens:** Python, SQL
 - **Ferramentas:** AirFlow, DBT, Jinja, Power BI, Excel
-- **Machine Learning:** Modelagem preditiva, análise exploratória de dados
+- **Machine Learning:** Modelagem preditiva, análise exploratória de dados, utilização de IA para desenvolvimento de soluções
 
 **Experiência Profissional**
 
