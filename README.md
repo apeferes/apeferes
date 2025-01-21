@@ -7,7 +7,7 @@ Engenheira de Dados apaixonada por extrair insights de dados para impulsionar a 
 **Habilidades Técnicas**
 
 - **Linguagens:** Python, SQL
-- **Ferramentas:** DBT, Jinja, SQL
+- **Ferramentas:** AirFlow, DBT, Jinja, Power BI, Excel
 - **Machine Learning:** Modelagem preditiva, análise exploratória de dados
 
 **Experiência Profissional**
@@ -24,6 +24,7 @@ Engenheira de Dados apaixonada por extrair insights de dados para impulsionar a 
 - **Certificados:**
   - Google Data Analytics Professional Certificate
   - Business Intelligence - FIAP
+  - Analise de Dados - WoMakers Code
 
 **Contato**
 
