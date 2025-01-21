@@ -37,9 +37,3 @@ Engenheira de Dados apaixonada por extrair insights de dados para impulsionar a 
 [![SQL](https://img.shields.io/badge/SQL-3178C6?style=for-the-badge&logo=sql&logoColor=white)](https://www.postgresql.org/)
 [![DBT](https://img.shields.io/badge/dbt-F26522?style=for-the-badge&logo=dbt&logoColor=white)](https://docs.getdbt.com/)
 [![Jinja](https://img.shields.io/badge/Jinja-F44336?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/)
-
-**Ferramentas úteis:**
-
-- **GitHub Readme Stats:** https://github-readme-stats.vercel.app/
-- **Shields.io:** https://shields.io/
-- **Markdown Cheatsheet:** https://www.markdownguide.org/basic-syntax/
