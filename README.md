@@ -2,7 +2,7 @@
 
 **Sobre Mim**
 
-Engenheira de Dados de marketing, solucionando problemas e extração de dados para impulsionar a tomada de decisão. Busco constantemente novos desafios para aprender e me desenvolver como profissional da tecnologia focada no que há de mais atual em soluções.
+Engenheira de Dados de marketing, solucionando problemas e ETL de dados para impulsionar a tomada de decisão. Busco constantemente novos desafios para aprender e me desenvolver como profissional da tecnologia focada no que há de mais atual em soluções.
 
 **Habilidades Técnicas**
 
